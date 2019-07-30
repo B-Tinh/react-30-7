@@ -1,0 +1,39 @@
+.formProfile{
+	font-family: "Open Sans","Helvetica Neue","Helvetica","Arial","sans-serif" !important;
+	text-align: left;
+	color: black;
+	font-weight: bold;
+	margin-left: 10px;
+	padding-top: 45px;
+}
+
+
+
+.formProfile > input{
+	background-color: white;
+	width: 95%;
+	color: black;
+	font-weight: bold;
+	padding: 5px;
+	border: 0px;
+	box-shadow: 0 3px 3px -2px gray;
+	margin-top: 15px;
+}
+
+
+.update{
+	float: right;
+	margin-top: 30px;
+	margin-right: 20px;
+	background-color: #ff6e80;
+	color: white;
+}
+
+::-webkit-input-placeholder {
+	color: gray;
+	font-weight: 600;
+}
+::-moz-placeholder{
+	color: gray;
+	font-weight: 600;
+}

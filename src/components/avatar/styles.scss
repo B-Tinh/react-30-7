@@ -1,0 +1,41 @@
+.avatar{
+	width: 120px;
+	height: 120px;
+	border: 1px #d3d3d3 solid;
+	border-radius: 50%;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #fafafa;
+	position: relative;
+}
+
+
+.avatar img{
+	position: absolute;
+	width: 50px;
+	color: #d7d7d7;
+	top: 30px;
+	left: 32px;
+}
+
+
+.penis{
+	width: 20px;
+	height: 20px;
+	border: 1px #d3d3d3 solid;
+	border-radius: 50%;
+	background-color: #fafafa;
+	position: absolute;
+	top: 95px;
+	right: 7px;
+}
+
+.penis img{
+	width: 13px;
+	height: 13px;
+	position: absolute;
+	font-weight: bold;
+	top: 3px;
+	left: 3px;
+}
